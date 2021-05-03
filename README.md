@@ -22,6 +22,7 @@ The project is implemented in Java and built using [Maven]. The project is avail
 
 Example dependency config:
 
+
 ```xml
 <dependency>
     <groupId>com.github.skjolber.3d-bin-container-packing</groupId>
